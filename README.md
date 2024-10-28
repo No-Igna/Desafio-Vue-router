@@ -1,6 +1,8 @@
 # desafio vue router
 
-This template should help get you started developing with Vue 3 in Vite.
+para ver el proyecto desplegado visitar el siguiente enlace:
+
+https://desafio-vue-router-gamma.vercel.app
 
 ## Recommended IDE Setup
 
